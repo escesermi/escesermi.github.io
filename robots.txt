@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://escesermi.github.io/sitemap
+Sitemap: https://escesermi.github.io/app/sitemap
+Sitemap: https://escesermi.github.io/assets/sitemap
+Sitemap: https://escesermi.github.io/css/sitemap
+Sitemap: https://escesermi.github.io/includes/sitemap
+Sitemap: https://escesermi.github.io/item/sitemap
+Sitemap: https://escesermi.github.io/src/sitemap
